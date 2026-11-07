@@ -25,3 +25,6 @@ app/src/main/java/.../
 
 ## Run it
 Open the project in Android Studio and press **Run**. The minimum SDK is set in `app/build.gradle.kts`.
+
+## License
+MIT. Free to use, change and share. See [LICENSE](LICENSE).
